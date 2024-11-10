@@ -26,3 +26,19 @@ token verify failed
 failed needs auth import fix and could do with original source to see why and how they made it this way .
 
 flattened file good to deploy but this still broken with rewards and the deploy of distributor prior to this
+
+
+
+deployed seperatly with multi and also deployed the contracts used seperatly to check on use 
+
+so distributor ca link to verified is
+
+https://testnet.bscscan.com/address/0xd8781b5F12Ad2d73123A1aaa90388976176d42ed#code
+
+
+safemath (safmath.sol on purpose) ca link to verified is
+
+https://testnet.bscscan.com/address/0x283D0a5356B1C74fb55457244F8dD6521215CD0b#code
+
+
+token failed
