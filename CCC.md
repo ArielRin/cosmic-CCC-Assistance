@@ -16,7 +16,7 @@ This document explains the **setup process**, **admin operations**, and **user f
 2. **Key Features**:
    - **Buyback Mechanism**: Automatically buys back and burns tokens using collected fees.
    - **Fee Management**: Supports multiple fees (e.g., tax, wallet, buyback, charity, and reward).
-   - **Dividend Distribution**: Rewards holders with another token (e.g., BNB or a specified reward token) based on holdings.
+   - **Dividend Distribution**: Rewards holders with another token (e.g., ERC-20 (non wrapped native) or a specified reward token) based on holdings.
    - **Liquidity Provision**: Adds liquidity to PancakeSwap automatically.
    - **Blacklist System**: Restricts certain addresses from transacting.
 
